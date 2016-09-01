@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/neon/projects/python_django/push/br06/api'
+let g:netrw_dirhist_2='/home/neon/projects/python_django/bbbb'
+let g:netrw_dirhist_3='/home/neon/projects/python_django/br06_test/br06/templates/locale'
+let g:netrw_dirhist_4='/etc/apache2'
+let g:netrw_dirhist_5='/etc/apache2/conf-enabled'
+let g:netrw_dirhist_6='/home/neon/projects/Poke/NecroBot/PoGo.NecroBot.CLI/Config'
+let g:netrw_dirhist_7='/home/neon/projects/python_django/br06/api'
