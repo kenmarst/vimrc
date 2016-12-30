@@ -1,4 +1,4 @@
 2016.09.01
 
-cp vimrc ~/.vimrc
-cp vim/ ~/.vim
+1. cp vimrc ~/.vimrc
+2. cp vim/ ~/.vim
